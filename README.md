@@ -13,3 +13,5 @@ This project utilizes Generative Adversarial Networks (GANs) to generate animate
 - Basic understanding of web development
 - Foundational knowledge of generative modeling with a focus on GANs
 - Proficiency in application development with Python
+
+## Link: https://medium.com/the-power-of-ai/creating-anime-characters-using-gan-implementing-in-gradio-49f2c05df0dd

@@ -1,5 +1,3 @@
-# Explore the fascinating world of Anime Character Creation in a Gradio web app. Fine-tune multiple functions to generate diverse characters and analyze their intercorrelations, enabling you to create unique anime characters from scratch.
-
 ## Overview
 
 This project utilizes Generative Adversarial Networks (GANs) to generate animated character images. GANs are deep learning models that can learn from a dataset and create new content that closely resembles the training data. We've trained an existing GAN model using a dataset of animated character images and developed a web-based application that allows users to generate unique animated character images by interacting with the GAN model through Gradio, a user-friendly interface.
